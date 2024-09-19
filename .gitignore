@@ -1,3 +1,5 @@
 instance
 flaskr/__pycache__
 flaskr/.vscode
+.venv
+
